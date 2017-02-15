@@ -1,0 +1,19 @@
+#letter {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 26px;
+  padding-left: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.panel {
+  background-image: url(paper.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display:none;
+  margin-top: 10px;
+  border: 1px solid orange;
+  border-radius: 5px;
+}
+body {
+  background-color: lightblue;
+}
